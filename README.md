@@ -1,6 +1,6 @@
 # AVD Cost Estimator App
 
-Welcome to the **AVD Cost Estimator App** by *Your Company Name*. This interactive web application helps clients estimate the monthly cost of deploying Azure Virtual Desktop (AVD) environments in Australia, using real-time configuration inputs and visual breakdowns.
+Welcome to the **AVD Cost Estimator App** by 3rdmill. This interactive web application helps clients estimate the monthly cost of deploying Azure Virtual Desktop (AVD) environments in Australia, using real-time configuration inputs and visual breakdowns.
 
 ---
 
@@ -23,7 +23,6 @@ This app is designed to simplify AVD cost planning for IT consultants, architect
   - Log Analytics Workspace (LAW)
 - Real-time cost breakdown and pie chart
 - Downloadable summary in CSV or PDF
-- Styled to match [3rdmill.tech](https://3rdmill.tech/)
 
 ---
 
@@ -55,11 +54,11 @@ This app is designed to simplify AVD cost planning for IT consultants, architect
 
 ## 📄 License
 
-This project is provided by *Your Company Name* for demonstration and client engagement purposes. Please contact us for commercial licensing or customization support.
+This project is provided by 3rdmill for demonstration and client engagement purposes. Please contact us for commercial licensing or customization support.
 
 ---
 
 ## 📬 Contact
 
-For support or enhancements, reach out to **Your Company Name** via our website or email.
+For support or enhancements, reach out to 3rdmill via our website (3rdmill.tech) or email.
 
